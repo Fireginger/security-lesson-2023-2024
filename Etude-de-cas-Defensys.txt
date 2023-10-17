@@ -1,0 +1,24 @@
+Le premier atelier vise à identifier l’objet de l’étude, les participants aux ateliers et le cadre temporel. 
+Au cours de cet atelier, vous recensez les missions, valeurs métier, biens supports relatifs à l’objet étudié. 
+Vous identifiez les événements redoutés associés aux valeurs métier et évaluez la gravité de leurs impacts. 
+Vous définissez également le socle de sécurité et les écarts.
+
+Objet de l'étude : 
+
+Participants aux ateliers :
+- Direction ;
+- Métiers ;
+- Responsable de la sécurité des systèmes d’information (RSSI) ;
+- Direction des systèmes d’information (DSI).
+
+Cadre temporel :
+
+Missions :
+Valeurs métier :
+Biens supports :
+
+Evénements redoutés :
+Gravité des impacts :
+
+Socle de sécurité :
+Ecarts :
